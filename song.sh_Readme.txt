@@ -1,0 +1,13 @@
+===| song.sh |===
+
+1.Lancer song.sh avec la commande:
+sh /sgoinfre/goinfre/Misc/song.sh
+
+2.Régler la sortie son sur “Internal Speaker”:
+Aller dans System Préférence, Sound, puis l’onglet Output et sélectionner “Internal Speaker”
+
+3.Mettre le son au maximum, grâce à la touche F12
+
+4.Fermer tout les terminaux
+
+5.Quand le trollé ré-ouvriras un terminal, la video s’ouvrira toutes les 8 secondes
